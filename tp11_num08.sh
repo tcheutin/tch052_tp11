@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Telecahrge les images du premier niveau d'un site web
+#Telecharge les images du premier niveau d'un site web
 
 echo "Veuillez entrer une URL:"
 
